@@ -1,0 +1,29 @@
+// LOGIN
+LOGIN_GOOGLE: "Entrar com Google",
+LOGIN_FACEBOOK: "Entrar com Facebook",
+LOGIN_EMAIL: "Entrar com e-mail",
+LOGIN_REGISTER: "não passui uma conta?",
+LOGIN_REGISTERSPAN: "cadastre-se",
+LOGIN_BACK: "Voltar",
+
+//// LOGIN ERRORS
+ERR_USR_NOT_FOUND: "Usuário nao encontrado",
+ERR_USR_LOGIN_WRONG: "Usuário ou senha invalidos",
+ERR_USR_ALREADY_REGISTERED: "E-mail ja cadastrado",
+ERR_SRV_INTERNAL: "Erro de servidor",
+
+// REGISTER
+REGISTER_TEXT_NEXT: "Próximo",
+//// REGISTER YUP ERRORS
+REGISTER_YUP_REQUIRED_FIELD: "este campo é obrigatório",
+REGISTER_YUP_VALID_EMAIL: "digite um email valido",
+REGISTER_YUP_DIFFERENT_PASSWORDS: "As senhas estão diferentes!",
+//// REGISTER FIELDS LABEL
+REGISTER_LABEL_NAME: "Nome",
+REGISTER_LABEL_SURNAME: "Sobrenome",
+REGISTER_LABEL_EMAIL: "O email",
+REGISTER_LABEL_PASSWORD: "Senha",
+REGISTER_LABEL_CONFIRM_PASSWORD: "Confirmar senha",
+
+//TELA DE LISTAGEM DE TREINOS
+WORKOUTS_BACK: "Voltar",

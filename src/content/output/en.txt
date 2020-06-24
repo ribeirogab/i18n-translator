@@ -1,9 +1,0 @@
-LOGIN_FACEBOOK: Login with Facebook
-LOGIN_REGISTER: didn't pass an account?
-LOGIN_EMAIL: Sign in with email
-WORKOUTS_BACK: Come back
-LOGIN_BACK: Come back
-ERR_USR_LOGIN_WRONG: Username or password is invalid
-ERR_USR_NOT_FOUND: User not found
-ERR_USR_ALREADY_REGISTERED: E-mail already registered
-ERR_SRV_INTERNAL: Server error
