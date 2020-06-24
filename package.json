@@ -1,0 +1,17 @@
+{
+  "name": "i18n-translator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ribeirogab/i18n-translator.git",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index"
+  },
+  "dependencies": {
+    "@google-cloud/translate": "^6.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^14.2.0"
+  }
+}

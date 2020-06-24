@@ -1,0 +1,6 @@
+LOGIN_GOOGLE: Inicia sesión con Google
+WORKOUTS_BACK: Vuelve
+LOGIN_EMAIL: Inicia sesión con correo electrónico
+LOGIN_FACEBOOK: Iniciar sesión con Facebook
+LOGIN_BACK: Vuelve
+ERR_SRV_INTERNAL: Error del Servidor
